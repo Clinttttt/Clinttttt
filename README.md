@@ -1,8 +1,6 @@
-<h2 align="center">Tech Stack Overview</h2>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-transparent-ffffff00?style=for-the-badge" width="200">
-</p>
+<h2 align="center">Tech Stack Overview</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -16,4 +14,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-<hr style="height:1px; width:60%; margin:auto; border:none; background-color:#ccc;" />
+<hr style="width:150px; height:1px; background-color:#ccc; border:none; margin:auto;" />
+<br>

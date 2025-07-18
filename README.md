@@ -10,4 +10,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</p>
+

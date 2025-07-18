@@ -1,7 +1,7 @@
 ## 🛠️ Technology Stack
 
 
-<div align="center" style="margin-top: 20px; line-height: 1.8;">
+<div align="center" style="margin-top: 25px; line-height: 1.8;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 0 12px; position: relative; top: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50" style="margin: 0 12px; position: relative; top: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50" style="margin: 0 12px; position: relative; top: 5px;"/>

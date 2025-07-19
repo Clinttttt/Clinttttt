@@ -1,35 +1,28 @@
 ## 🛠️ Technology Stack
 
-<div align="center" style="padding:40px 0;">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+<div align="center" style="padding:40px 0; overflow-x:auto;">
+  <div style="display:flex; justify-content:center; align-items:center; flex-wrap:nowrap;">
     
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-         alt="C#" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
-         alt="Tailwind CSS" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" 
-         alt="ASP.NET Core" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" 
-         alt="Blazor" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-         alt="MSSQL" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-         alt="Bootstrap" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-         alt="Git" 
-         style="width:50px;height:50px;object-fit:contain;margin:12px;" />
-    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         alt="C#" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+         alt="Tailwind CSS" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
+         alt="ASP.NET Core" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg"
+         alt="Blazor" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+         alt="MSSQL" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         alt="Bootstrap" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="Git" style="width:50px;height:50px;object-fit:contain;margin:0 12px;" />
+
   </div>
 </div>

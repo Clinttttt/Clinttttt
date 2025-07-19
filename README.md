@@ -1,7 +1,7 @@
 ## 🛠️ Technology Stack
 
 <div align="center" style="padding:40px 0;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 32px; white-space: nowrap; overflow: hidden; flex-wrap: nowrap;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 32px>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
          alt="C#" style="width:50px;height:50px;object-fit:contain;" />

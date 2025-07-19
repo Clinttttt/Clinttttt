@@ -7,7 +7,8 @@
     
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" style="width:50px;height:50px;object-fit:contain;" />
     
-   <img src="https://raw.githubusercontent.com/campusMVP/dotnetCoreLogoPack/master/logos/aspnet-core-3.svg" alt="ASP.NET Core Logo" style="width:50px;height:50px;object-fit:contain;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" style="width:50px;height:50px;object-fit:contain;" />
+
     
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" style="width:50px;height:50px;object-fit:contain;" />
     

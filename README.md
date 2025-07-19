@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" style="width: 50px; height: 50px; object-fit: contain;" />
     
    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="ASP.NET MVC" style="width: 50px; height: 50px; object-fit: contain;" />
+
     
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" style="width: 50px; height: 50px; object-fit: contain;" />
     

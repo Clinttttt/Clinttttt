@@ -11,10 +11,10 @@ Full-stack .NET developer who ships clean, production-ready software. Passionate
 <a href="https://clinttttt.github.io">
   <img src="https://img.shields.io/badge/GitHub-Clintttttt-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/clint-villanueva-851880352/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="#">
+<a href="https://www.upwork.com/freelancers/~0172ef6c53ace883b2?viewMode=1">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" />
 </a>
 

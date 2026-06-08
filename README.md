@@ -8,7 +8,7 @@ Full-stack .NET developer who ships clean, production-ready software. Passionate
 
 <br/>
 
-<a href="https://github.com/Clintttttt](https://clinttttt.github.io/">
+<a href="https://clinttttt.github.io">
   <img src="https://img.shields.io/badge/GitHub-Clintttttt-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="#">

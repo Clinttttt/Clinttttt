@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Clint 👋
+# Clint Villanueva
 
 ### .NET Software Developer
 

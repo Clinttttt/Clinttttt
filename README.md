@@ -4,7 +4,7 @@
 
 ### .NET Software Developer
 
-I build clean and practical web applications using **C#**, **ASP.NET Core**, and **Blazor**, while continuously improving my skills in **Clean Architecture**, **Entity Framework Core**, and scalable backend development.
+Full-stack .NET developer who ships clean, production-ready software. Passionate about solving real-world problems through scalable architecture and maintainable code.
 
 <br/>
 
